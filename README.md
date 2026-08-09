@@ -13,7 +13,7 @@ This project presents a hybrid skin cancer classification framework that combine
 - Hyperparameter tuning
 - Model evaluation
 - Confusion Matrix
-- Classification Report
+- Classification Report 
 
 
 ## Pipeline
