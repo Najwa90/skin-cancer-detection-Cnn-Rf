@@ -8,7 +8,7 @@ This project presents a hybrid skin cancer classification framework that combine
 - Data augmentation
 -class balancing using SMOTEENN
 - Feature extraction using CNN
-- Dimensionality reduction using PCA 
+- Dimensionality reduction using PCA
 - Random Forest classification
 - Hyperparameter tuning
 - Model evaluation
